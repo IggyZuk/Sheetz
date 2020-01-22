@@ -1,0 +1,10 @@
+ID	English	Russian	French	Spanish	German	Italian	Portuguese	Chinese	Japanese	Korean	Hindi	Lithuanian
+knight	knight	рыцарь	Chevalier	Caballero	Ritter	cavaliere	cavaleiro	骑士	騎士	기사	शूरवीर	riteris
+archer	archer	лучник	archer	arquero	Bogenschütze	arciere	arqueiro	射手	射手	궁수	धनुराशि	lankininkas
+wizard	wizard	волшебник	sorcier	mago	Magier	procedura guidata	Mago	巫师	ウィザード	마법사	जादूगर	burtininkas
+priest	priest	священник	prêtre	sacerdote	Priester	sacerdote	sacerdote	牧师	祭司	성직자	पुजारी	kunigas
+dragon	dragon	Дракон	dragon	continuar	Drachen	Drago	Dragão	龙	ドラゴン	용	अजगर	drakonas
+ninja	ninja	ниндзя	Ninja	Ninja	ninja	ninja	ninja	忍者	忍者	닌자	निंजा	Ninja
+skeleton	skeleton	скелет	squelette	esqueleto	Skelett	scheletro	esqueleto	骨架	スケルトン	해골	कंकाल	skeletas
+barbarian	barbarian	варвар	barbare	bárbaro	Barbar	barbaro	bárbaro	野蛮人	野蛮人	야만인	जंगली	barbaras
+ghost	ghost	призрак	fantôme	fantasma	Geist	fantasma	fantasma	鬼	幽霊	유령	भूत	vaiduoklis

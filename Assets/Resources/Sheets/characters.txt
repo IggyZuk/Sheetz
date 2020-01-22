@@ -1,0 +1,11 @@
+ID	DAMAGE	HEALTH	WEAPON	POWER
+knight	3	7	sword	invulnerability
+archer	2	3	bow	rapid-fire
+wizard	4	2	staff	ice-frost
+priest	1	2	ferula	heal
+dragon	5	10	breath	fire-ball
+ninja	10	2	katana	invisibility
+skeleton	1	1	bone	raise-dead
+barbarian	6	4	axe	fury
+ghost	1	100	touch	fear
+golem	5	20	fist	reconstruct
